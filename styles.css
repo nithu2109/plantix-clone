@@ -19,6 +19,8 @@ body{
 .left-container{
   margin-left:20px;
   margin-right: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
   text-align: right;
 }
 .left-container img{
@@ -30,18 +32,25 @@ body{
   width: 100%;
   
 }
+.middle-container{
+  margin-top: auto;
+  margin-bottom: auto;
+}
 .middle-container img{
   width: 100%;
+  
 }
 .right-container{
  word-wrap: break-word; 
 }
 .right-container1{
   margin-left: 20px;
+      margin-top: auto;
+    margin-bottom: auto;
 }
 .right-container1 img{
   width: 100%;
-  height: 80%;
+  
 }
 #h3-style{
     text-align: center;
